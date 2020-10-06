@@ -1,0 +1,38 @@
+.card {
+  background-color: #1f303f;
+  color: white;
+  margin: 1rem;
+  padding: 0.7rem;
+  border-radius: 6px;
+  width: 9em;
+  text-align: center;
+}
+
+.card__title--web {
+  font-size: 1.3rem;
+}
+
+.card__info--web {
+  font-size: 2rem;
+}
+
+@media screen and (max-width: 800px) {
+  .card {
+    width: unset;
+  }
+  .card__title--web,
+  .card__info--web {
+    display: none;
+  }
+
+  .card__title--mobile {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .card__title--mobile {
+    display: none;
+  }
+}
