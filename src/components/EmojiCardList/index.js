@@ -8,7 +8,6 @@ export default function EmojiCardList({ list }) {
   const [filteredList, setFilteredList] = useState([]);
 
   useEffect(() => {
-    // setFilteredList(list.slice(0, 30));
     separateGroups(list);
   }, [list]);
 
@@ -26,6 +25,11 @@ export default function EmojiCardList({ list }) {
   };
 
   const separateGroups = (list) => {
+    if (!list.length) {
+      setGroupedList([]);
+      setFilteredList([]);
+    }
+
     const grouped = list.reduce(function (acc, obj) {
       let key = obj["group"];
       if (!acc[key]) {
@@ -37,10 +41,19 @@ export default function EmojiCardList({ list }) {
 
     const entries = Object.entries(grouped);
     setGroupedList(entries);
-    setFilteredList([entries[0]]);
+
+    if (list.length < 150) {
+      setFilteredList(entries);
+    } else {
+      setFilteredList([entries[0]]);
+    }
   };
 
   return filteredList.map((group, groupedIndex) => {
+    if (filteredList[0] === undefined) {
+      return <h1>Not found</h1>;
+    }
+
     return (
       <>
         <h1 className="capitalize">{formatGroupName(group[0])}</h1>
