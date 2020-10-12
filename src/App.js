@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import "./App.css";
 import { Header } from "./components/Header";
 import InfoCardList from "./components/InfoCardList";
@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 import values from "./emojis";
 
 function App() {
-  const [emojis, setEmojis] = useState(values);
+  // const [emojis, setEmojis] = useState(values);
 
   // useEffect(() => {
   //   EmojiService.get().then(result => {
@@ -21,9 +21,9 @@ function App() {
     <div className="app">
       <div className="content">
         <Header title="Emoji Library" />
-        <InfoCardList list={emojis} />
+        <InfoCardList list={values} />
 
-        <EmojiCardList list={emojis} />
+        <EmojiCardList list={values} />
       </div>
       <Footer />
     </div>
