@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./App.css";
 import { Header } from "./components/Header";
 import InfoCardList from "./components/InfoCardList";
+import EmojiCardList from "./components/EmojiCardList";
 import Footer from "./components/Footer";
 import values from "./emojis";
 
@@ -22,8 +23,9 @@ function App() {
         <Header title="Emoji Library" />
         <InfoCardList list={emojis} />
 
-        <Footer />
+        <EmojiCardList list={emojis} />
       </div>
+      <Footer />
     </div>
   );
 }

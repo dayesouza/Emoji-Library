@@ -13,6 +13,7 @@ export default function Footer() {
           rel="noopener noreferrer"
           href="http://dayesouza.github.io/"
           target="_blank"
+          className="color-grey"
         >
           <FontAwesomeIcon className="mx-2" icon="globe" />
         </a>

@@ -6,6 +6,12 @@
   border-radius: 6px;
   width: 9em;
   text-align: center;
+  box-shadow: 2px 2px 2px #3c587d;
+}
+
+.card--hover:hover {
+  background-color: #597a96;
+  cursor: pointer;
 }
 
 .card__title--web {
