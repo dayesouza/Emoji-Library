@@ -1,5 +1,14 @@
 .button {
   padding: 11px;
+  cursor: pointer;
+  background-color: #3c587d;
+  border: unset;
+  color: white;
+  border-radius: 6px;
+}
+
+.button:hover {
+  background-color: #28384c;
 }
 
 .button--wide {
