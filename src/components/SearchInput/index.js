@@ -9,7 +9,7 @@ const SearchInput = ({ onInput }) => {
       <FontAwesomeIcon className="divSearch__icon" icon="search" />
       <input
         placeholder="Search Emoji"
-        onChange={(e) => onInput(e.target.value)}
+        onChange={(e) => onInput(e.target.value.toLowerCase())}
         className="divSearch__input"
       ></input>
     </div>

@@ -6,9 +6,11 @@ import EmojiCardList from "./components/EmojiCardList";
 import Footer from "./components/Footer";
 import values from "./emojis";
 import SearchInput from "./components/SearchInput";
+import TonePicker from "./components/TonePicker";
 
 function App() {
   const [emojis, setEmojis] = useState(values);
+  const [tone, setTone] = useState("default-skin-tone");
 
   const onSearch = (value) => {
     if (!value.length) {
@@ -22,6 +24,22 @@ function App() {
     setEmojis(list);
   };
 
+  const onChangeTone = () => {
+    if (tone === "default-skin-tone") {
+      setTone("light-skin-tone");
+    } else if (tone === "light-skin-tone") {
+      setTone("medium-light-skin-tone");
+    } else if (tone === "medium-light-skin-tone") {
+      setTone("medium-skin-tone");
+    } else if (tone === "medium-skin-tone") {
+      setTone("medium-dark-skin-tone");
+    } else if (tone === "medium-dark-skin-tone") {
+      setTone("dark-skin-tone");
+    } else if (tone === "dark-skin-tone") {
+      setTone("default-skin-tone");
+    }
+  };
+
   useEffect(() => {}, []);
 
   return (
@@ -30,9 +48,12 @@ function App() {
         <Header title="Emoji Library" />
         <InfoCardList list={values} />
 
-        <SearchInput onInput={onSearch} />
+        <div className="flex">
+          <SearchInput onInput={onSearch} />
+          <TonePicker skinTone={tone} onChangeTone={onChangeTone} />
+        </div>
 
-        <EmojiCardList list={emojis} />
+        <EmojiCardList skinTone={tone} list={emojis} />
       </div>
       <Footer />
     </div>

@@ -13,6 +13,10 @@ body {
   min-height: 100vh;
 }
 
+.flex {
+  display: flex;
+}
+
 .content {
   padding-bottom: 4.5rem;
   margin-left: 80px;

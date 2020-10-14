@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import EmojiCard from "../EmojiCard";
 import Button from "../Button";
 
-export default function EmojiCardList({ list }) {
+export default function EmojiCardList({ list, skinTone }) {
   const [groupedList, setGroupedList] = useState([]);
   const [filteredList, setFilteredList] = useState([]);
 
@@ -59,9 +59,10 @@ export default function EmojiCardList({ list }) {
         <h1 className="capitalize">{formatGroupName(group[0])}</h1>
         <div className="grid-flex">
           {group[1].map((emoji, index) => (
-            <EmojiCard key={index} obj={emoji} />
+            <EmojiCard skinTone={skinTone} key={index} obj={emoji} />
           ))}
         </div>
+
         {filteredList.length !== groupedList.length &&
           groupedIndex + 1 === filteredList.length && (
             <Button onClick={() => loadMore()} className="button button--wide">
@@ -75,4 +76,5 @@ export default function EmojiCardList({ list }) {
 
 EmojiCardList.propTypes = {
   list: PropTypes.array.isRequired,
+  skinTone: PropTypes.string.isRequired,
 };

@@ -1,0 +1,36 @@
+.tonePicker {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 31px;
+}
+
+.tonePicker__color {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.default-skin-tone {
+  background-color: #ffdc5d;
+}
+
+.light-skin-tone {
+  background-color: #f7dece;
+}
+
+.medium-light-skin-tone {
+  background-color: #f3d2a2;
+}
+
+.medium-skin-tone {
+  background-color: #d5ab88;
+}
+
+.medium-dark-skin-tone {
+  background-color: #af7e57;
+}
+
+.dark-skin-tone {
+  background-color: #7c533e;
+}
