@@ -4,7 +4,7 @@ export default [
     character: "😀",
     unicodeName: "grinning face",
     codePoint: "1F600",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -12,7 +12,7 @@ export default [
     character: "😃",
     unicodeName: "grinning face with big eyes",
     codePoint: "1F603",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -20,7 +20,7 @@ export default [
     character: "😄",
     unicodeName: "grinning face with smiling eyes",
     codePoint: "1F604",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -28,7 +28,7 @@ export default [
     character: "😁",
     unicodeName: "beaming face with smiling eyes",
     codePoint: "1F601",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -36,7 +36,7 @@ export default [
     character: "😆",
     unicodeName: "grinning squinting face",
     codePoint: "1F606",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -44,7 +44,7 @@ export default [
     character: "😅",
     unicodeName: "grinning face with sweat",
     codePoint: "1F605",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -52,7 +52,7 @@ export default [
     character: "🤣",
     unicodeName: "rolling on the floor laughing",
     codePoint: "1F923",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -60,7 +60,7 @@ export default [
     character: "😂",
     unicodeName: "face with tears of joy",
     codePoint: "1F602",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -68,7 +68,7 @@ export default [
     character: "🙂",
     unicodeName: "slightly smiling face",
     codePoint: "1F642",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -76,7 +76,7 @@ export default [
     character: "🙃",
     unicodeName: "upside-down face",
     codePoint: "1F643",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -84,7 +84,7 @@ export default [
     character: "😉",
     unicodeName: "winking face",
     codePoint: "1F609",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -92,7 +92,7 @@ export default [
     character: "😊",
     unicodeName: "smiling face with smiling eyes",
     codePoint: "1F60A",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -100,7 +100,7 @@ export default [
     character: "😇",
     unicodeName: "smiling face with halo",
     codePoint: "1F607",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-smiling",
   },
   {
@@ -108,7 +108,7 @@ export default [
     character: "🥰",
     unicodeName: "smiling face with hearts",
     codePoint: "1F970",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-affection",
   },
   {
@@ -116,7 +116,7 @@ export default [
     character: "😍",
     unicodeName: "smiling face with heart-eyes",
     codePoint: "1F60D",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-affection",
   },
   {
@@ -124,7 +124,7 @@ export default [
     character: "🤩",
     unicodeName: "star-struck",
     codePoint: "1F929",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-affection",
   },
   {
@@ -132,7 +132,7 @@ export default [
     character: "😘",
     unicodeName: "face blowing a kiss",
     codePoint: "1F618",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-affection",
   },
   {
@@ -140,7 +140,7 @@ export default [
     character: "😗",
     unicodeName: "kissing face",
     codePoint: "1F617",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-affection",
   },
   {
@@ -148,7 +148,7 @@ export default [
     character: "😚",
     unicodeName: "kissing face with closed eyes",
     codePoint: "1F61A",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-affection",
   },
   {
@@ -156,7 +156,7 @@ export default [
     character: "😙",
     unicodeName: "kissing face with smiling eyes",
     codePoint: "1F619",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-affection",
   },
   {
@@ -164,7 +164,7 @@ export default [
     character: "😋",
     unicodeName: "face savoring food",
     codePoint: "1F60B",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-tongue",
   },
   {
@@ -172,7 +172,7 @@ export default [
     character: "😛",
     unicodeName: "face with tongue",
     codePoint: "1F61B",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-tongue",
   },
   {
@@ -180,7 +180,7 @@ export default [
     character: "😜",
     unicodeName: "winking face with tongue",
     codePoint: "1F61C",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-tongue",
   },
   {
@@ -188,7 +188,7 @@ export default [
     character: "🤪",
     unicodeName: "zany face",
     codePoint: "1F92A",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-tongue",
   },
   {
@@ -196,7 +196,7 @@ export default [
     character: "😝",
     unicodeName: "squinting face with tongue",
     codePoint: "1F61D",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-tongue",
   },
   {
@@ -204,7 +204,7 @@ export default [
     character: "🤑",
     unicodeName: "money-mouth face",
     codePoint: "1F911",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-tongue",
   },
   {
@@ -212,7 +212,7 @@ export default [
     character: "🤗",
     unicodeName: "hugging face",
     codePoint: "1F917",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-hand",
   },
   {
@@ -220,7 +220,7 @@ export default [
     character: "🤭",
     unicodeName: "face with hand over mouth",
     codePoint: "1F92D",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-hand",
   },
   {
@@ -228,7 +228,7 @@ export default [
     character: "🤫",
     unicodeName: "shushing face",
     codePoint: "1F92B",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-hand",
   },
   {
@@ -236,7 +236,7 @@ export default [
     character: "🤔",
     unicodeName: "thinking face",
     codePoint: "1F914",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-hand",
   },
   {
@@ -244,7 +244,7 @@ export default [
     character: "🤐",
     unicodeName: "zipper-mouth face",
     codePoint: "1F910",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -252,7 +252,7 @@ export default [
     character: "🤨",
     unicodeName: "face with raised eyebrow",
     codePoint: "1F928",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -260,7 +260,7 @@ export default [
     character: "😐",
     unicodeName: "neutral face",
     codePoint: "1F610",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -268,7 +268,7 @@ export default [
     character: "😑",
     unicodeName: "expressionless face",
     codePoint: "1F611",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -276,7 +276,7 @@ export default [
     character: "😶",
     unicodeName: "face without mouth",
     codePoint: "1F636",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -284,7 +284,7 @@ export default [
     character: "😏",
     unicodeName: "smirking face",
     codePoint: "1F60F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -292,7 +292,7 @@ export default [
     character: "😒",
     unicodeName: "unamused face",
     codePoint: "1F612",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -300,7 +300,7 @@ export default [
     character: "🙄",
     unicodeName: "face with rolling eyes",
     codePoint: "1F644",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -308,7 +308,7 @@ export default [
     character: "😬",
     unicodeName: "grimacing face",
     codePoint: "1F62C",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -316,7 +316,7 @@ export default [
     character: "🤥",
     unicodeName: "lying face",
     codePoint: "1F925",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-neutral-skeptical",
   },
   {
@@ -324,7 +324,7 @@ export default [
     character: "😌",
     unicodeName: "relieved face",
     codePoint: "1F60C",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-sleepy",
   },
   {
@@ -332,7 +332,7 @@ export default [
     character: "😔",
     unicodeName: "pensive face",
     codePoint: "1F614",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-sleepy",
   },
   {
@@ -340,7 +340,7 @@ export default [
     character: "😪",
     unicodeName: "sleepy face",
     codePoint: "1F62A",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-sleepy",
   },
   {
@@ -348,7 +348,7 @@ export default [
     character: "🤤",
     unicodeName: "drooling face",
     codePoint: "1F924",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-sleepy",
   },
   {
@@ -356,7 +356,7 @@ export default [
     character: "😴",
     unicodeName: "sleeping face",
     codePoint: "1F634",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-sleepy",
   },
   {
@@ -364,7 +364,7 @@ export default [
     character: "😷",
     unicodeName: "face with medical mask",
     codePoint: "1F637",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -372,7 +372,7 @@ export default [
     character: "🤒",
     unicodeName: "face with thermometer",
     codePoint: "1F912",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -380,7 +380,7 @@ export default [
     character: "🤕",
     unicodeName: "face with head-bandage",
     codePoint: "1F915",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -388,7 +388,7 @@ export default [
     character: "🤢",
     unicodeName: "nauseated face",
     codePoint: "1F922",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -396,7 +396,7 @@ export default [
     character: "🤮",
     unicodeName: "face vomiting",
     codePoint: "1F92E",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -404,7 +404,7 @@ export default [
     character: "🤧",
     unicodeName: "sneezing face",
     codePoint: "1F927",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -412,7 +412,7 @@ export default [
     character: "🥵",
     unicodeName: "hot face",
     codePoint: "1F975",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -420,7 +420,7 @@ export default [
     character: "🥶",
     unicodeName: "cold face",
     codePoint: "1F976",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -428,7 +428,7 @@ export default [
     character: "🥴",
     unicodeName: "woozy face",
     codePoint: "1F974",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -436,7 +436,7 @@ export default [
     character: "😵",
     unicodeName: "dizzy face",
     codePoint: "1F635",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -444,7 +444,7 @@ export default [
     character: "🤯",
     unicodeName: "exploding head",
     codePoint: "1F92F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-unwell",
   },
   {
@@ -452,7 +452,7 @@ export default [
     character: "🤠",
     unicodeName: "cowboy hat face",
     codePoint: "1F920",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-hat",
   },
   {
@@ -460,7 +460,7 @@ export default [
     character: "🥳",
     unicodeName: "partying face",
     codePoint: "1F973",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-hat",
   },
   {
@@ -468,7 +468,7 @@ export default [
     character: "😎",
     unicodeName: "smiling face with sunglasses",
     codePoint: "1F60E",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-glasses",
   },
   {
@@ -476,7 +476,7 @@ export default [
     character: "🤓",
     unicodeName: "nerd face",
     codePoint: "1F913",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-glasses",
   },
   {
@@ -484,7 +484,7 @@ export default [
     character: "🧐",
     unicodeName: "face with monocle",
     codePoint: "1F9D0",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-glasses",
   },
   {
@@ -492,7 +492,7 @@ export default [
     character: "😕",
     unicodeName: "confused face",
     codePoint: "1F615",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -500,7 +500,7 @@ export default [
     character: "😟",
     unicodeName: "worried face",
     codePoint: "1F61F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -508,7 +508,7 @@ export default [
     character: "🙁",
     unicodeName: "slightly frowning face",
     codePoint: "1F641",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -516,7 +516,7 @@ export default [
     character: "😮",
     unicodeName: "face with open mouth",
     codePoint: "1F62E",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -524,7 +524,7 @@ export default [
     character: "😯",
     unicodeName: "hushed face",
     codePoint: "1F62F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -532,7 +532,7 @@ export default [
     character: "😲",
     unicodeName: "astonished face",
     codePoint: "1F632",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -540,7 +540,7 @@ export default [
     character: "😳",
     unicodeName: "flushed face",
     codePoint: "1F633",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -548,7 +548,7 @@ export default [
     character: "🥺",
     unicodeName: "pleading face",
     codePoint: "1F97A",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -556,7 +556,7 @@ export default [
     character: "😦",
     unicodeName: "frowning face with open mouth",
     codePoint: "1F626",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -564,7 +564,7 @@ export default [
     character: "😧",
     unicodeName: "anguished face",
     codePoint: "1F627",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -572,7 +572,7 @@ export default [
     character: "😨",
     unicodeName: "fearful face",
     codePoint: "1F628",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -580,7 +580,7 @@ export default [
     character: "😰",
     unicodeName: "anxious face with sweat",
     codePoint: "1F630",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -588,7 +588,7 @@ export default [
     character: "😥",
     unicodeName: "sad but relieved face",
     codePoint: "1F625",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -596,7 +596,7 @@ export default [
     character: "😢",
     unicodeName: "crying face",
     codePoint: "1F622",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -604,7 +604,7 @@ export default [
     character: "😭",
     unicodeName: "loudly crying face",
     codePoint: "1F62D",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -612,7 +612,7 @@ export default [
     character: "😱",
     unicodeName: "face screaming in fear",
     codePoint: "1F631",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -620,7 +620,7 @@ export default [
     character: "😖",
     unicodeName: "confounded face",
     codePoint: "1F616",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -628,7 +628,7 @@ export default [
     character: "😣",
     unicodeName: "persevering face",
     codePoint: "1F623",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -636,7 +636,7 @@ export default [
     character: "😞",
     unicodeName: "disappointed face",
     codePoint: "1F61E",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -644,7 +644,7 @@ export default [
     character: "😓",
     unicodeName: "downcast face with sweat",
     codePoint: "1F613",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -652,7 +652,7 @@ export default [
     character: "😩",
     unicodeName: "weary face",
     codePoint: "1F629",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -660,7 +660,7 @@ export default [
     character: "😫",
     unicodeName: "tired face",
     codePoint: "1F62B",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -668,7 +668,7 @@ export default [
     character: "🥱",
     unicodeName: "yawning face",
     codePoint: "1F971",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-concerned",
   },
   {
@@ -676,7 +676,7 @@ export default [
     character: "😤",
     unicodeName: "face with steam from nose",
     codePoint: "1F624",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-negative",
   },
   {
@@ -684,7 +684,7 @@ export default [
     character: "😡",
     unicodeName: "pouting face",
     codePoint: "1F621",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-negative",
   },
   {
@@ -692,7 +692,7 @@ export default [
     character: "😠",
     unicodeName: "angry face",
     codePoint: "1F620",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-negative",
   },
   {
@@ -700,7 +700,7 @@ export default [
     character: "🤬",
     unicodeName: "face with symbols on mouth",
     codePoint: "1F92C",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-negative",
   },
   {
@@ -708,7 +708,7 @@ export default [
     character: "😈",
     unicodeName: "smiling face with horns",
     codePoint: "1F608",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-negative",
   },
   {
@@ -716,7 +716,7 @@ export default [
     character: "👿",
     unicodeName: "angry face with horns",
     codePoint: "1F47F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-negative",
   },
   {
@@ -724,7 +724,7 @@ export default [
     character: "💀",
     unicodeName: "skull",
     codePoint: "1F480",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-negative",
   },
   {
@@ -732,7 +732,7 @@ export default [
     character: "☠️",
     unicodeName: "skull and crossbones",
     codePoint: "2620 FE0F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-negative",
   },
   {
@@ -740,7 +740,7 @@ export default [
     character: "💩",
     unicodeName: "pile of poo",
     codePoint: "1F4A9",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-costume",
   },
   {
@@ -748,7 +748,7 @@ export default [
     character: "🤡",
     unicodeName: "clown face",
     codePoint: "1F921",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-costume",
   },
   {
@@ -756,7 +756,7 @@ export default [
     character: "👹",
     unicodeName: "ogre",
     codePoint: "1F479",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-costume",
   },
   {
@@ -764,7 +764,7 @@ export default [
     character: "👺",
     unicodeName: "goblin",
     codePoint: "1F47A",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-costume",
   },
   {
@@ -772,7 +772,7 @@ export default [
     character: "👻",
     unicodeName: "ghost",
     codePoint: "1F47B",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-costume",
   },
   {
@@ -780,7 +780,7 @@ export default [
     character: "👽",
     unicodeName: "alien",
     codePoint: "1F47D",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-costume",
   },
   {
@@ -788,7 +788,7 @@ export default [
     character: "👾",
     unicodeName: "alien monster",
     codePoint: "1F47E",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-costume",
   },
   {
@@ -796,7 +796,7 @@ export default [
     character: "🤖",
     unicodeName: "robot",
     codePoint: "1F916",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "face-costume",
   },
   {
@@ -804,7 +804,7 @@ export default [
     character: "😺",
     unicodeName: "grinning cat",
     codePoint: "1F63A",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "cat-face",
   },
   {
@@ -812,7 +812,7 @@ export default [
     character: "😸",
     unicodeName: "grinning cat with smiling eyes",
     codePoint: "1F638",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "cat-face",
   },
   {
@@ -820,7 +820,7 @@ export default [
     character: "😹",
     unicodeName: "cat with tears of joy",
     codePoint: "1F639",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "cat-face",
   },
   {
@@ -828,7 +828,7 @@ export default [
     character: "😻",
     unicodeName: "smiling cat with heart-eyes",
     codePoint: "1F63B",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "cat-face",
   },
   {
@@ -836,7 +836,7 @@ export default [
     character: "😼",
     unicodeName: "cat with wry smile",
     codePoint: "1F63C",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "cat-face",
   },
   {
@@ -844,7 +844,7 @@ export default [
     character: "😽",
     unicodeName: "kissing cat",
     codePoint: "1F63D",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "cat-face",
   },
   {
@@ -852,7 +852,7 @@ export default [
     character: "🙀",
     unicodeName: "weary cat",
     codePoint: "1F640",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "cat-face",
   },
   {
@@ -860,7 +860,7 @@ export default [
     character: "😿",
     unicodeName: "crying cat",
     codePoint: "1F63F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "cat-face",
   },
   {
@@ -868,7 +868,7 @@ export default [
     character: "😾",
     unicodeName: "pouting cat",
     codePoint: "1F63E",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "cat-face",
   },
   {
@@ -876,7 +876,7 @@ export default [
     character: "🙈",
     unicodeName: "see-no-evil monkey",
     codePoint: "1F648",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "monkey-face",
   },
   {
@@ -884,7 +884,7 @@ export default [
     character: "🙉",
     unicodeName: "hear-no-evil monkey",
     codePoint: "1F649",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "monkey-face",
   },
   {
@@ -892,7 +892,7 @@ export default [
     character: "🙊",
     unicodeName: "speak-no-evil monkey",
     codePoint: "1F64A",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "monkey-face",
   },
   {
@@ -900,7 +900,7 @@ export default [
     character: "💋",
     unicodeName: "kiss mark",
     codePoint: "1F48B",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -908,7 +908,7 @@ export default [
     character: "💌",
     unicodeName: "love letter",
     codePoint: "1F48C",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -916,7 +916,7 @@ export default [
     character: "💘",
     unicodeName: "heart with arrow",
     codePoint: "1F498",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -924,7 +924,7 @@ export default [
     character: "💝",
     unicodeName: "heart with ribbon",
     codePoint: "1F49D",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -932,7 +932,7 @@ export default [
     character: "💖",
     unicodeName: "sparkling heart",
     codePoint: "1F496",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -940,7 +940,7 @@ export default [
     character: "💗",
     unicodeName: "growing heart",
     codePoint: "1F497",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -948,7 +948,7 @@ export default [
     character: "💓",
     unicodeName: "beating heart",
     codePoint: "1F493",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -956,7 +956,7 @@ export default [
     character: "💞",
     unicodeName: "revolving hearts",
     codePoint: "1F49E",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -964,7 +964,7 @@ export default [
     character: "💕",
     unicodeName: "two hearts",
     codePoint: "1F495",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -972,7 +972,7 @@ export default [
     character: "💟",
     unicodeName: "heart decoration",
     codePoint: "1F49F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -980,7 +980,7 @@ export default [
     character: "❣️",
     unicodeName: "heart exclamation",
     codePoint: "2763 FE0F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -988,7 +988,7 @@ export default [
     character: "💔",
     unicodeName: "broken heart",
     codePoint: "1F494",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -996,7 +996,7 @@ export default [
     character: "❤️",
     unicodeName: "red heart",
     codePoint: "2764 FE0F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1004,7 +1004,7 @@ export default [
     character: "🧡",
     unicodeName: "orange heart",
     codePoint: "1F9E1",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1012,7 +1012,7 @@ export default [
     character: "💛",
     unicodeName: "yellow heart",
     codePoint: "1F49B",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1020,7 +1020,7 @@ export default [
     character: "💚",
     unicodeName: "green heart",
     codePoint: "1F49A",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1028,7 +1028,7 @@ export default [
     character: "💙",
     unicodeName: "blue heart",
     codePoint: "1F499",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1036,7 +1036,7 @@ export default [
     character: "💜",
     unicodeName: "purple heart",
     codePoint: "1F49C",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1044,7 +1044,7 @@ export default [
     character: "🤎",
     unicodeName: "brown heart",
     codePoint: "1F90E",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1052,7 +1052,7 @@ export default [
     character: "🖤",
     unicodeName: "black heart",
     codePoint: "1F5A4",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1060,7 +1060,7 @@ export default [
     character: "🤍",
     unicodeName: "white heart",
     codePoint: "1F90D",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1068,7 +1068,7 @@ export default [
     character: "💯",
     unicodeName: "hundred points",
     codePoint: "1F4AF",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1076,7 +1076,7 @@ export default [
     character: "💢",
     unicodeName: "anger symbol",
     codePoint: "1F4A2",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1084,7 +1084,7 @@ export default [
     character: "💥",
     unicodeName: "collision",
     codePoint: "1F4A5",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1092,7 +1092,7 @@ export default [
     character: "💫",
     unicodeName: "dizzy",
     codePoint: "1F4AB",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1100,7 +1100,7 @@ export default [
     character: "💦",
     unicodeName: "sweat droplets",
     codePoint: "1F4A6",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1108,7 +1108,7 @@ export default [
     character: "💨",
     unicodeName: "dashing away",
     codePoint: "1F4A8",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1116,7 +1116,7 @@ export default [
     character: "🕳️",
     unicodeName: "hole",
     codePoint: "1F573 FE0F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1124,7 +1124,7 @@ export default [
     character: "💣",
     unicodeName: "bomb",
     codePoint: "1F4A3",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1132,7 +1132,7 @@ export default [
     character: "💬",
     unicodeName: "speech balloon",
     codePoint: "1F4AC",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1140,7 +1140,7 @@ export default [
     character: "👁️‍🗨️",
     unicodeName: "eye in speech bubble",
     codePoint: "1F441 FE0F 200D 1F5E8 FE0F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1148,7 +1148,7 @@ export default [
     character: "🗨️",
     unicodeName: "left speech bubble",
     codePoint: "1F5E8 FE0F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1156,7 +1156,7 @@ export default [
     character: "🗯️",
     unicodeName: "right anger bubble",
     codePoint: "1F5EF FE0F",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1164,7 +1164,7 @@ export default [
     character: "💭",
     unicodeName: "thought balloon",
     codePoint: "1F4AD",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1172,7 +1172,7 @@ export default [
     character: "💤",
     unicodeName: "zzz",
     codePoint: "1F4A4",
-    group: "smileys-emotion",
+    group: "smileys-people",
     subGroup: "emotion",
   },
   {
@@ -1180,7 +1180,7 @@ export default [
     character: "👋",
     unicodeName: "waving hand",
     codePoint: "1F44B",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-open",
     variants: [
       {
@@ -1210,7 +1210,7 @@ export default [
     character: "🤚",
     unicodeName: "raised back of hand",
     codePoint: "1F91A",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-open",
     variants: [
       {
@@ -1240,7 +1240,7 @@ export default [
     character: "🖐️",
     unicodeName: "hand with fingers splayed",
     codePoint: "1F590 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-open",
     variants: [
       {
@@ -1270,7 +1270,7 @@ export default [
     character: "✋",
     unicodeName: "raised hand",
     codePoint: "270B",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-open",
     variants: [
       {
@@ -1300,7 +1300,7 @@ export default [
     character: "🖖",
     unicodeName: "vulcan salute",
     codePoint: "1F596",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-open",
     variants: [
       {
@@ -1330,7 +1330,7 @@ export default [
     character: "👌",
     unicodeName: "OK hand",
     codePoint: "1F44C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-partial",
     variants: [
       {
@@ -1360,7 +1360,7 @@ export default [
     character: "🤏",
     unicodeName: "pinching hand",
     codePoint: "1F90F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-partial",
     variants: [
       {
@@ -1390,7 +1390,7 @@ export default [
     character: "✌️",
     unicodeName: "victory hand",
     codePoint: "270C FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-partial",
     variants: [
       {
@@ -1420,7 +1420,7 @@ export default [
     character: "🤞",
     unicodeName: "crossed fingers",
     codePoint: "1F91E",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-partial",
     variants: [
       {
@@ -1450,7 +1450,7 @@ export default [
     character: "🤟",
     unicodeName: "love-you gesture",
     codePoint: "1F91F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-partial",
     variants: [
       {
@@ -1480,7 +1480,7 @@ export default [
     character: "🤘",
     unicodeName: "sign of the horns",
     codePoint: "1F918",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-partial",
     variants: [
       {
@@ -1510,7 +1510,7 @@ export default [
     character: "🤙",
     unicodeName: "call me hand",
     codePoint: "1F919",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-partial",
     variants: [
       {
@@ -1540,7 +1540,7 @@ export default [
     character: "👈",
     unicodeName: "backhand index pointing left",
     codePoint: "1F448",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-single-finger",
     variants: [
       {
@@ -1570,7 +1570,7 @@ export default [
     character: "👉",
     unicodeName: "backhand index pointing right",
     codePoint: "1F449",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-single-finger",
     variants: [
       {
@@ -1600,7 +1600,7 @@ export default [
     character: "👆",
     unicodeName: "backhand index pointing up",
     codePoint: "1F446",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-single-finger",
     variants: [
       {
@@ -1630,7 +1630,7 @@ export default [
     character: "🖕",
     unicodeName: "middle finger",
     codePoint: "1F595",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-single-finger",
     variants: [
       {
@@ -1660,7 +1660,7 @@ export default [
     character: "👇",
     unicodeName: "backhand index pointing down",
     codePoint: "1F447",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-single-finger",
     variants: [
       {
@@ -1690,7 +1690,7 @@ export default [
     character: "☝️",
     unicodeName: "index pointing up",
     codePoint: "261D FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-single-finger",
     variants: [
       {
@@ -1720,7 +1720,7 @@ export default [
     character: "👍",
     unicodeName: "thumbs up",
     codePoint: "1F44D",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-closed",
     variants: [
       {
@@ -1750,7 +1750,7 @@ export default [
     character: "👎",
     unicodeName: "thumbs down",
     codePoint: "1F44E",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-closed",
     variants: [
       {
@@ -1780,7 +1780,7 @@ export default [
     character: "✊",
     unicodeName: "raised fist",
     codePoint: "270A",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-closed",
     variants: [
       {
@@ -1810,7 +1810,7 @@ export default [
     character: "👊",
     unicodeName: "oncoming fist",
     codePoint: "1F44A",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-closed",
     variants: [
       {
@@ -1840,7 +1840,7 @@ export default [
     character: "🤛",
     unicodeName: "left-facing fist",
     codePoint: "1F91B",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-closed",
     variants: [
       {
@@ -1870,7 +1870,7 @@ export default [
     character: "🤜",
     unicodeName: "right-facing fist",
     codePoint: "1F91C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-fingers-closed",
     variants: [
       {
@@ -1900,7 +1900,7 @@ export default [
     character: "👏",
     unicodeName: "clapping hands",
     codePoint: "1F44F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hands",
     variants: [
       {
@@ -1930,7 +1930,7 @@ export default [
     character: "🙌",
     unicodeName: "raising hands",
     codePoint: "1F64C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hands",
     variants: [
       {
@@ -1960,7 +1960,7 @@ export default [
     character: "👐",
     unicodeName: "open hands",
     codePoint: "1F450",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hands",
     variants: [
       {
@@ -1990,7 +1990,7 @@ export default [
     character: "🤲",
     unicodeName: "palms up together",
     codePoint: "1F932",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hands",
     variants: [
       {
@@ -2020,7 +2020,7 @@ export default [
     character: "🤝",
     unicodeName: "handshake",
     codePoint: "1F91D",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hands",
   },
   {
@@ -2028,7 +2028,7 @@ export default [
     character: "🙏",
     unicodeName: "folded hands",
     codePoint: "1F64F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hands",
     variants: [
       {
@@ -2058,7 +2058,7 @@ export default [
     character: "✍️",
     unicodeName: "writing hand",
     codePoint: "270D FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-prop",
     variants: [
       {
@@ -2066,7 +2066,7 @@ export default [
         character: "✍🏻",
         unicodeName: "writing hand: light skin tone",
         codePoint: "270D 1F3FB",
-        group: "people-body",
+        group: "smileys-people",
         subGroup: "hand-prop",
       },
       {
@@ -2074,7 +2074,7 @@ export default [
         character: "✍🏼",
         unicodeName: "writing hand: medium-light skin tone",
         codePoint: "270D 1F3FC",
-        group: "people-body",
+        group: "smileys-people",
         subGroup: "hand-prop",
       },
       {
@@ -2082,7 +2082,7 @@ export default [
         character: "✍🏽",
         unicodeName: "writing hand: medium skin tone",
         codePoint: "270D 1F3FD",
-        group: "people-body",
+        group: "smileys-people",
         subGroup: "hand-prop",
       },
       {
@@ -2090,7 +2090,7 @@ export default [
         character: "✍🏾",
         unicodeName: "writing hand: medium-dark skin tone",
         codePoint: "270D 1F3FE",
-        group: "people-body",
+        group: "smileys-people",
         subGroup: "hand-prop",
       },
       {
@@ -2098,7 +2098,7 @@ export default [
         character: "✍🏿",
         unicodeName: "writing hand: dark skin tone",
         codePoint: "270D 1F3FF",
-        group: "people-body",
+        group: "smileys-people",
         subGroup: "hand-prop",
       },
     ],
@@ -2108,7 +2108,7 @@ export default [
     character: "💅",
     unicodeName: "nail polish",
     codePoint: "1F485",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-prop",
     variants: [
       {
@@ -2138,7 +2138,7 @@ export default [
     character: "🤳",
     unicodeName: "selfie",
     codePoint: "1F933",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "hand-prop",
     variants: [
       {
@@ -2168,7 +2168,7 @@ export default [
     character: "💪",
     unicodeName: "flexed biceps",
     codePoint: "1F4AA",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
     variants: [
       {
@@ -2198,7 +2198,7 @@ export default [
     character: "🦾",
     unicodeName: "mechanical arm",
     codePoint: "1F9BE",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
   },
   {
@@ -2206,7 +2206,7 @@ export default [
     character: "🦿",
     unicodeName: "mechanical leg",
     codePoint: "1F9BF",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
   },
   {
@@ -2214,7 +2214,7 @@ export default [
     character: "🦵",
     unicodeName: "leg",
     codePoint: "1F9B5",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
     variants: [
       {
@@ -2244,7 +2244,7 @@ export default [
     character: "🦶",
     unicodeName: "foot",
     codePoint: "1F9B6",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
     variants: [
       {
@@ -2274,7 +2274,7 @@ export default [
     character: "👂",
     unicodeName: "ear",
     codePoint: "1F442",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
     variants: [
       {
@@ -2304,7 +2304,7 @@ export default [
     character: "🦻",
     unicodeName: "ear with hearing aid",
     codePoint: "1F9BB",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
     variants: [
       {
@@ -2334,7 +2334,7 @@ export default [
     character: "👃",
     unicodeName: "nose",
     codePoint: "1F443",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
     variants: [
       {
@@ -2364,7 +2364,7 @@ export default [
     character: "🧠",
     unicodeName: "brain",
     codePoint: "1F9E0",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
   },
   {
@@ -2372,7 +2372,7 @@ export default [
     character: "🦷",
     unicodeName: "tooth",
     codePoint: "1F9B7",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
   },
   {
@@ -2380,7 +2380,7 @@ export default [
     character: "🦴",
     unicodeName: "bone",
     codePoint: "1F9B4",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
   },
   {
@@ -2388,7 +2388,7 @@ export default [
     character: "👀",
     unicodeName: "eyes",
     codePoint: "1F440",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
   },
   {
@@ -2396,7 +2396,7 @@ export default [
     character: "👁️",
     unicodeName: "eye",
     codePoint: "1F441 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
   },
   {
@@ -2404,7 +2404,7 @@ export default [
     character: "👅",
     unicodeName: "tongue",
     codePoint: "1F445",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
   },
   {
@@ -2412,7 +2412,7 @@ export default [
     character: "👄",
     unicodeName: "mouth",
     codePoint: "1F444",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "body-parts",
   },
   {
@@ -2420,7 +2420,7 @@ export default [
     character: "👶",
     unicodeName: "baby",
     codePoint: "1F476",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -2450,7 +2450,7 @@ export default [
     character: "🧒",
     unicodeName: "child",
     codePoint: "1F9D2",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -2480,7 +2480,7 @@ export default [
     character: "👦",
     unicodeName: "boy",
     codePoint: "1F466",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -2510,7 +2510,7 @@ export default [
     character: "👧",
     unicodeName: "girl",
     codePoint: "1F467",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -2540,7 +2540,7 @@ export default [
     character: "🧑",
     unicodeName: "person",
     codePoint: "1F9D1",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -3172,7 +3172,7 @@ export default [
     character: "👱",
     unicodeName: "person: blond hair",
     codePoint: "1F471",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -3246,7 +3246,7 @@ export default [
     character: "👨",
     unicodeName: "man",
     codePoint: "1F468",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -3884,7 +3884,7 @@ export default [
     character: "🧔",
     unicodeName: "man: beard",
     codePoint: "1F9D4",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -3914,7 +3914,7 @@ export default [
     character: "👨‍🦰",
     unicodeName: "man: red hair",
     codePoint: "1F468 200D 1F9B0",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
   },
   {
@@ -3922,7 +3922,7 @@ export default [
     character: "👩",
     unicodeName: "woman",
     codePoint: "1F469",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -4608,7 +4608,7 @@ export default [
     character: "🧑‍🦰",
     unicodeName: "person: red hair",
     codePoint: "1F9D1 200D 1F9B0",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
   },
   {
@@ -4616,7 +4616,7 @@ export default [
     character: "👩‍🦱",
     unicodeName: "woman: curly hair",
     codePoint: "1F469 200D 1F9B1",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
   },
   {
@@ -4624,7 +4624,7 @@ export default [
     character: "🧑‍🦱",
     unicodeName: "person: curly hair",
     codePoint: "1F9D1 200D 1F9B1",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
   },
   {
@@ -4632,7 +4632,7 @@ export default [
     character: "👩‍🦳",
     unicodeName: "woman: white hair",
     codePoint: "1F469 200D 1F9B3",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
   },
   {
@@ -4640,7 +4640,7 @@ export default [
     character: "🧑‍🦳",
     unicodeName: "person: white hair",
     codePoint: "1F9D1 200D 1F9B3",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
   },
   {
@@ -4648,7 +4648,7 @@ export default [
     character: "👩‍🦲",
     unicodeName: "woman: bald",
     codePoint: "1F469 200D 1F9B2",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
   },
   {
@@ -4656,7 +4656,7 @@ export default [
     character: "🧑‍🦲",
     unicodeName: "person: bald",
     codePoint: "1F9D1 200D 1F9B2",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
   },
   {
@@ -4664,7 +4664,7 @@ export default [
     character: "👱‍♀️",
     unicodeName: "woman: blond hair",
     codePoint: "1F471 200D 2640 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
   },
   {
@@ -4672,7 +4672,7 @@ export default [
     character: "🧓",
     unicodeName: "older person",
     codePoint: "1F9D3",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -4702,7 +4702,7 @@ export default [
     character: "👴",
     unicodeName: "old man",
     codePoint: "1F474",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -4732,7 +4732,7 @@ export default [
     character: "👵",
     unicodeName: "old woman",
     codePoint: "1F475",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person",
     variants: [
       {
@@ -4762,7 +4762,7 @@ export default [
     character: "🙍",
     unicodeName: "person frowning",
     codePoint: "1F64D",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -4840,7 +4840,7 @@ export default [
     character: "🙎",
     unicodeName: "person pouting",
     codePoint: "1F64E",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -4918,7 +4918,7 @@ export default [
     character: "🙅",
     unicodeName: "person gesturing NO",
     codePoint: "1F645",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -4996,7 +4996,7 @@ export default [
     character: "🙆",
     unicodeName: "person gesturing OK",
     codePoint: "1F646",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -5074,7 +5074,7 @@ export default [
     character: "💁",
     unicodeName: "person tipping hand",
     codePoint: "1F481",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -5152,7 +5152,7 @@ export default [
     character: "🙋",
     unicodeName: "person raising hand",
     codePoint: "1F64B",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -5230,7 +5230,7 @@ export default [
     character: "🧏",
     unicodeName: "deaf person",
     codePoint: "1F9CF",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -5308,7 +5308,7 @@ export default [
     character: "🙇",
     unicodeName: "person bowing",
     codePoint: "1F647",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -5386,7 +5386,7 @@ export default [
     character: "🤦",
     unicodeName: "person facepalming",
     codePoint: "1F926",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -5464,7 +5464,7 @@ export default [
     character: "🤷",
     unicodeName: "person shrugging",
     codePoint: "1F937",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-gesture",
     variants: [
       {
@@ -5542,7 +5542,7 @@ export default [
     character: "🧑‍⚕️",
     unicodeName: "health worker",
     codePoint: "1F9D1 200D 2695 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5550,7 +5550,7 @@ export default [
     character: "👨‍⚕️",
     unicodeName: "man health worker",
     codePoint: "1F468 200D 2695 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5558,7 +5558,7 @@ export default [
     character: "👩‍⚕️",
     unicodeName: "woman health worker",
     codePoint: "1F469 200D 2695 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5566,7 +5566,7 @@ export default [
     character: "🧑‍🎓",
     unicodeName: "student",
     codePoint: "1F9D1 200D 1F393",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5574,7 +5574,7 @@ export default [
     character: "👨‍🎓",
     unicodeName: "man student",
     codePoint: "1F468 200D 1F393",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5582,7 +5582,7 @@ export default [
     character: "👩‍🎓",
     unicodeName: "woman student",
     codePoint: "1F469 200D 1F393",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5590,7 +5590,7 @@ export default [
     character: "🧑‍🏫",
     unicodeName: "teacher",
     codePoint: "1F9D1 200D 1F3EB",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5598,7 +5598,7 @@ export default [
     character: "👨‍🏫",
     unicodeName: "man teacher",
     codePoint: "1F468 200D 1F3EB",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5606,7 +5606,7 @@ export default [
     character: "👩‍🏫",
     unicodeName: "woman teacher",
     codePoint: "1F469 200D 1F3EB",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5614,7 +5614,7 @@ export default [
     character: "🧑‍⚖️",
     unicodeName: "judge",
     codePoint: "1F9D1 200D 2696 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5622,7 +5622,7 @@ export default [
     character: "👨‍⚖️",
     unicodeName: "man judge",
     codePoint: "1F468 200D 2696 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5630,7 +5630,7 @@ export default [
     character: "👩‍⚖️",
     unicodeName: "woman judge",
     codePoint: "1F469 200D 2696 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5638,7 +5638,7 @@ export default [
     character: "🧑‍🌾",
     unicodeName: "farmer",
     codePoint: "1F9D1 200D 1F33E",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5646,7 +5646,7 @@ export default [
     character: "👨‍🌾",
     unicodeName: "man farmer",
     codePoint: "1F468 200D 1F33E",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5654,7 +5654,7 @@ export default [
     character: "👩‍🌾",
     unicodeName: "woman farmer",
     codePoint: "1F469 200D 1F33E",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5662,7 +5662,7 @@ export default [
     character: "🧑‍🍳",
     unicodeName: "cook",
     codePoint: "1F9D1 200D 1F373",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5670,7 +5670,7 @@ export default [
     character: "👨‍🍳",
     unicodeName: "man cook",
     codePoint: "1F468 200D 1F373",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5678,7 +5678,7 @@ export default [
     character: "👩‍🍳",
     unicodeName: "woman cook",
     codePoint: "1F469 200D 1F373",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5686,7 +5686,7 @@ export default [
     character: "🧑‍🔧",
     unicodeName: "mechanic",
     codePoint: "1F9D1 200D 1F527",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5694,7 +5694,7 @@ export default [
     character: "👨‍🔧",
     unicodeName: "man mechanic",
     codePoint: "1F468 200D 1F527",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5702,7 +5702,7 @@ export default [
     character: "👩‍🔧",
     unicodeName: "woman mechanic",
     codePoint: "1F469 200D 1F527",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5710,7 +5710,7 @@ export default [
     character: "🧑‍🏭",
     unicodeName: "factory worker",
     codePoint: "1F9D1 200D 1F3ED",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5718,7 +5718,7 @@ export default [
     character: "👨‍🏭",
     unicodeName: "man factory worker",
     codePoint: "1F468 200D 1F3ED",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5726,7 +5726,7 @@ export default [
     character: "👩‍🏭",
     unicodeName: "woman factory worker",
     codePoint: "1F469 200D 1F3ED",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5734,7 +5734,7 @@ export default [
     character: "🧑‍💼",
     unicodeName: "office worker",
     codePoint: "1F9D1 200D 1F4BC",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5742,7 +5742,7 @@ export default [
     character: "👨‍💼",
     unicodeName: "man office worker",
     codePoint: "1F468 200D 1F4BC",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5750,7 +5750,7 @@ export default [
     character: "👩‍💼",
     unicodeName: "woman office worker",
     codePoint: "1F469 200D 1F4BC",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5758,7 +5758,7 @@ export default [
     character: "🧑‍🔬",
     unicodeName: "scientist",
     codePoint: "1F9D1 200D 1F52C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5766,7 +5766,7 @@ export default [
     character: "👨‍🔬",
     unicodeName: "man scientist",
     codePoint: "1F468 200D 1F52C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5774,7 +5774,7 @@ export default [
     character: "👩‍🔬",
     unicodeName: "woman scientist",
     codePoint: "1F469 200D 1F52C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5782,7 +5782,7 @@ export default [
     character: "🧑‍💻",
     unicodeName: "technologist",
     codePoint: "1F9D1 200D 1F4BB",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5790,7 +5790,7 @@ export default [
     character: "👨‍💻",
     unicodeName: "man technologist",
     codePoint: "1F468 200D 1F4BB",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5798,7 +5798,7 @@ export default [
     character: "👩‍💻",
     unicodeName: "woman technologist",
     codePoint: "1F469 200D 1F4BB",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5806,7 +5806,7 @@ export default [
     character: "🧑‍🎤",
     unicodeName: "singer",
     codePoint: "1F9D1 200D 1F3A4",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5814,7 +5814,7 @@ export default [
     character: "👨‍🎤",
     unicodeName: "man singer",
     codePoint: "1F468 200D 1F3A4",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5822,7 +5822,7 @@ export default [
     character: "👩‍🎤",
     unicodeName: "woman singer",
     codePoint: "1F469 200D 1F3A4",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5830,7 +5830,7 @@ export default [
     character: "🧑‍🎨",
     unicodeName: "artist",
     codePoint: "1F9D1 200D 1F3A8",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5838,7 +5838,7 @@ export default [
     character: "👨‍🎨",
     unicodeName: "man artist",
     codePoint: "1F468 200D 1F3A8",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5846,7 +5846,7 @@ export default [
     character: "👩‍🎨",
     unicodeName: "woman artist",
     codePoint: "1F469 200D 1F3A8",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5854,7 +5854,7 @@ export default [
     character: "🧑‍✈️",
     unicodeName: "pilot",
     codePoint: "1F9D1 200D 2708 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5862,7 +5862,7 @@ export default [
     character: "👨‍✈️",
     unicodeName: "man pilot",
     codePoint: "1F468 200D 2708 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5870,7 +5870,7 @@ export default [
     character: "👩‍✈️",
     unicodeName: "woman pilot",
     codePoint: "1F469 200D 2708 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5878,7 +5878,7 @@ export default [
     character: "🧑‍🚀",
     unicodeName: "astronaut",
     codePoint: "1F9D1 200D 1F680",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5886,7 +5886,7 @@ export default [
     character: "👨‍🚀",
     unicodeName: "man astronaut",
     codePoint: "1F468 200D 1F680",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5894,7 +5894,7 @@ export default [
     character: "👩‍🚀",
     unicodeName: "woman astronaut",
     codePoint: "1F469 200D 1F680",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5902,7 +5902,7 @@ export default [
     character: "🧑‍🚒",
     unicodeName: "firefighter",
     codePoint: "1F9D1 200D 1F692",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5910,7 +5910,7 @@ export default [
     character: "👨‍🚒",
     unicodeName: "man firefighter",
     codePoint: "1F468 200D 1F692",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5918,7 +5918,7 @@ export default [
     character: "👩‍🚒",
     unicodeName: "woman firefighter",
     codePoint: "1F469 200D 1F692",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -5926,7 +5926,7 @@ export default [
     character: "👮",
     unicodeName: "police officer",
     codePoint: "1F46E",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6004,7 +6004,7 @@ export default [
     character: "🕵️",
     unicodeName: "detective",
     codePoint: "1F575 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6034,7 +6034,7 @@ export default [
     character: "🕵️‍♂️",
     unicodeName: "man detective",
     codePoint: "1F575 FE0F 200D 2642 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6064,7 +6064,7 @@ export default [
     character: "🕵️‍♀️",
     unicodeName: "woman detective",
     codePoint: "1F575 FE0F 200D 2640 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6094,7 +6094,7 @@ export default [
     character: "💂",
     unicodeName: "guard",
     codePoint: "1F482",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6168,41 +6168,11 @@ export default [
     ],
   },
   {
-    slug: "ninja",
-    character: "🥷",
-    unicodeName: "ninja",
-    codePoint: "1F977",
-    group: "people-body",
-    subGroup: "person-role",
-    variants: [
-      {
-        slug: "ninja-light-skin-tone",
-        character: "🥷🏻",
-      },
-      {
-        slug: "ninja-medium-light-skin-tone",
-        character: "🥷🏼",
-      },
-      {
-        slug: "ninja-medium-skin-tone",
-        character: "🥷🏽",
-      },
-      {
-        slug: "ninja-medium-dark-skin-tone",
-        character: "🥷🏾",
-      },
-      {
-        slug: "ninja-dark-skin-tone",
-        character: "🥷🏿",
-      },
-    ],
-  },
-  {
     slug: "construction-worker",
     character: "👷",
     unicodeName: "construction worker",
     codePoint: "1F477",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6225,10 +6195,15 @@ export default [
         slug: "construction-worker-dark-skin-tone",
         character: "👷🏿",
       },
-      {
-        slug: "man-construction-worker",
-        character: "👷‍♂️",
-      },
+    ],
+  },
+  {
+    slug: "man-construction-worker",
+    character: "👷‍♂️",
+    unicodeName: "man construction worker",
+    group: "smileys-people",
+    subGroup: "person-role",
+    variants: [
       {
         slug: "man-construction-worker-light-skin-tone",
         character: "👷🏻‍♂️",
@@ -6249,10 +6224,15 @@ export default [
         slug: "man-construction-worker-dark-skin-tone",
         character: "👷🏿‍♂️",
       },
-      {
-        slug: "woman-construction-worker",
-        character: "👷‍♀️",
-      },
+    ],
+  },
+  {
+    slug: "woman-construction-worker",
+    character: "👷‍♀️",
+    unicodeName: "woman construction worker",
+    group: "smileys-people",
+    subGroup: "person-role",
+    variants: [
       {
         slug: "woman-construction-worker-light-skin-tone",
         character: "👷🏻‍♀️",
@@ -6280,7 +6260,7 @@ export default [
     character: "🤴",
     unicodeName: "prince",
     codePoint: "1F934",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6310,7 +6290,7 @@ export default [
     character: "👸",
     unicodeName: "princess",
     codePoint: "1F478",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6340,7 +6320,7 @@ export default [
     character: "👳",
     unicodeName: "person wearing turban",
     codePoint: "1F473",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6418,7 +6398,7 @@ export default [
     character: "👲",
     unicodeName: "person with skullcap",
     codePoint: "1F472",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6448,7 +6428,7 @@ export default [
     character: "🧕",
     unicodeName: "woman with headscarf",
     codePoint: "1F9D5",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6478,7 +6458,7 @@ export default [
     character: "🤵",
     unicodeName: "person in tuxedo",
     codePoint: "1F935",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6556,7 +6536,7 @@ export default [
     character: "👰",
     unicodeName: "person with veil",
     codePoint: "1F470",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6634,7 +6614,7 @@ export default [
     character: "🤰",
     unicodeName: "pregnant woman",
     codePoint: "1F930",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6664,7 +6644,7 @@ export default [
     character: "🤱",
     unicodeName: "breast-feeding",
     codePoint: "1F931",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
     variants: [
       {
@@ -6694,7 +6674,7 @@ export default [
     character: "👩‍🍼",
     unicodeName: "woman feeding baby",
     codePoint: "1F469 200D 1F37C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -6702,7 +6682,7 @@ export default [
     character: "👨‍🍼",
     unicodeName: "man feeding baby",
     codePoint: "1F468 200D 1F37C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -6710,7 +6690,7 @@ export default [
     character: "🧑‍🍼",
     unicodeName: "person feeding baby",
     codePoint: "1F9D1 200D 1F37C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-role",
   },
   {
@@ -6718,7 +6698,7 @@ export default [
     character: "👼",
     unicodeName: "baby angel",
     codePoint: "1F47C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -6748,7 +6728,7 @@ export default [
     character: "🎅",
     unicodeName: "Santa Claus",
     codePoint: "1F385",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -6778,7 +6758,7 @@ export default [
     character: "🤶",
     unicodeName: "Mrs. Claus",
     codePoint: "1F936",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -6808,7 +6788,7 @@ export default [
     character: "🧑‍🎄",
     unicodeName: "mx claus",
     codePoint: "1F9D1 200D 1F384",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
   },
   {
@@ -6816,7 +6796,7 @@ export default [
     character: "🦸",
     unicodeName: "superhero",
     codePoint: "1F9B8",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -6894,7 +6874,7 @@ export default [
     character: "🦹",
     unicodeName: "supervillain",
     codePoint: "1F9B9",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -6972,7 +6952,7 @@ export default [
     character: "🧙",
     unicodeName: "mage",
     codePoint: "1F9D9",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -7050,7 +7030,7 @@ export default [
     character: "🧚",
     unicodeName: "fairy",
     codePoint: "1F9DA",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -7128,7 +7108,7 @@ export default [
     character: "🧛",
     unicodeName: "vampire",
     codePoint: "1F9DB",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -7206,7 +7186,7 @@ export default [
     character: "🧜",
     unicodeName: "merperson",
     codePoint: "1F9DC",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -7284,7 +7264,7 @@ export default [
     character: "🧝",
     unicodeName: "elf",
     codePoint: "1F9DD",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -7362,7 +7342,7 @@ export default [
     character: "🧞",
     unicodeName: "genie",
     codePoint: "1F9DE",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -7380,7 +7360,7 @@ export default [
     character: "🧟",
     unicodeName: "zombie",
     codePoint: "1F9DF",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-fantasy",
     variants: [
       {
@@ -7398,7 +7378,7 @@ export default [
     character: "💆",
     unicodeName: "person getting massage",
     codePoint: "1F486",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -7476,7 +7456,7 @@ export default [
     character: "💇",
     unicodeName: "person getting haircut",
     codePoint: "1F487",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -7554,7 +7534,7 @@ export default [
     character: "🚶",
     unicodeName: "person walking",
     codePoint: "1F6B6",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -7632,7 +7612,7 @@ export default [
     character: "🧍",
     unicodeName: "person standing",
     codePoint: "1F9CD",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -7710,7 +7690,7 @@ export default [
     character: "🧎",
     unicodeName: "person kneeling",
     codePoint: "1F9CE",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -7788,7 +7768,7 @@ export default [
     character: "🧑‍🦯",
     unicodeName: "person with white cane",
     codePoint: "1F9D1 200D 1F9AF",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
   },
   {
@@ -7796,7 +7776,7 @@ export default [
     character: "👨‍🦯",
     unicodeName: "man with white cane",
     codePoint: "1F468 200D 1F9AF",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
   },
   {
@@ -7804,7 +7784,7 @@ export default [
     character: "👩‍🦯",
     unicodeName: "woman with white cane",
     codePoint: "1F469 200D 1F9AF",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
   },
   {
@@ -7812,7 +7792,7 @@ export default [
     character: "🧑‍🦼",
     unicodeName: "person in motorized wheelchair",
     codePoint: "1F9D1 200D 1F9BC",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
   },
   {
@@ -7820,7 +7800,7 @@ export default [
     character: "👨‍🦼",
     unicodeName: "man in motorized wheelchair",
     codePoint: "1F468 200D 1F9BC",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
   },
   {
@@ -7828,7 +7808,7 @@ export default [
     character: "👩‍🦼",
     unicodeName: "woman in motorized wheelchair",
     codePoint: "1F469 200D 1F9BC",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
   },
   {
@@ -7836,7 +7816,7 @@ export default [
     character: "🧑‍🦽",
     unicodeName: "person in manual wheelchair",
     codePoint: "1F9D1 200D 1F9BD",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
   },
   {
@@ -7844,7 +7824,7 @@ export default [
     character: "👨‍🦽",
     unicodeName: "man in manual wheelchair",
     codePoint: "1F468 200D 1F9BD",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
   },
   {
@@ -7852,7 +7832,7 @@ export default [
     character: "👩‍🦽",
     unicodeName: "woman in manual wheelchair",
     codePoint: "1F469 200D 1F9BD",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
   },
   {
@@ -7860,7 +7840,7 @@ export default [
     character: "🏃",
     unicodeName: "person running",
     codePoint: "1F3C3",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -7938,7 +7918,7 @@ export default [
     character: "💃",
     unicodeName: "woman dancing",
     codePoint: "1F483",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -7968,7 +7948,7 @@ export default [
     character: "🕺",
     unicodeName: "man dancing",
     codePoint: "1F57A",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -7998,73 +7978,59 @@ export default [
     character: "🕴️",
     unicodeName: "person in suit levitating",
     codePoint: "1F574 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
-  },
-  {
-    slug: "person-in-suit-levitating-light-skin-tone",
-    character: "🕴🏻",
-    unicodeName: "person in suit levitating: light skin tone",
-    codePoint: "1F574 1F3FB",
-    group: "people-body",
-    subGroup: "person-activity",
-  },
-  {
-    slug: "person-in-suit-levitating-medium-light-skin-tone",
-    character: "🕴🏼",
-    unicodeName: "person in suit levitating: medium-light skin tone",
-    codePoint: "1F574 1F3FC",
-    group: "people-body",
-    subGroup: "person-activity",
-  },
-  {
-    slug: "person-in-suit-levitating-medium-skin-tone",
-    character: "🕴🏽",
-    unicodeName: "person in suit levitating: medium skin tone",
-    codePoint: "1F574 1F3FD",
-    group: "people-body",
-    subGroup: "person-activity",
-  },
-  {
-    slug: "person-in-suit-levitating-medium-dark-skin-tone",
-    character: "🕴🏾",
-    unicodeName: "person in suit levitating: medium-dark skin tone",
-    codePoint: "1F574 1F3FE",
-    group: "people-body",
-    subGroup: "person-activity",
-  },
-  {
-    slug: "person-in-suit-levitating-dark-skin-tone",
-    character: "🕴🏿",
-    unicodeName: "person in suit levitating: dark skin tone",
-    codePoint: "1F574 1F3FF",
-    group: "people-body",
-    subGroup: "person-activity",
+    variants: [
+      {
+        slug: "person-in-suit-levitating-light-skin-tone",
+        character: "🕴🏻",
+      },
+      {
+        slug: "person-in-suit-levitating-medium-light-skin-tone",
+        character: "🕴🏼",
+      },
+      {
+        slug: "person-in-suit-levitating-medium-skin-tone",
+        character: "🕴🏽",
+      },
+      {
+        slug: "person-in-suit-levitating-medium-dark-skin-tone",
+        character: "🕴🏾",
+      },
+      {
+        slug: "person-in-suit-levitating-dark-skin-tone",
+        character: "🕴🏿",
+      },
+    ],
   },
   {
     slug: "people-with-bunny-ears",
     character: "👯",
     unicodeName: "people with bunny ears",
     codePoint: "1F46F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
-    variants: [
-      {
-        slug: "men-with-bunny-ears",
-        character: "👯‍♂️",
-      },
-      {
-        slug: "women-with-bunny-ears",
-        character: "👯‍♀️",
-      },
-    ],
+  },
+  {
+    slug: "men-with-bunny-ears",
+    character: "👯‍♂️",
+    unicodeName: "men with bunny ears",
+    group: "smileys-people",
+    subGroup: "person-activity",
+  },
+  {
+    slug: "women-with-bunny-ears",
+    character: "👯‍♀️",
+    unicodeName: "women with bunny ears",
+    group: "smileys-people",
+    subGroup: "person-activity",
   },
   {
     slug: "person-in-steamy-room",
     character: "🧖",
     unicodeName: "person in steamy room",
     codePoint: "1F9D6",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -8142,7 +8108,7 @@ export default [
     character: "🧗",
     unicodeName: "person climbing",
     codePoint: "1F9D7",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-activity",
     variants: [
       {
@@ -8220,7 +8186,7 @@ export default [
     character: "🤺",
     unicodeName: "person fencing",
     codePoint: "1F93A",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
   },
   {
@@ -8228,7 +8194,7 @@ export default [
     character: "🏇",
     unicodeName: "horse racing",
     codePoint: "1F3C7",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -8258,7 +8224,7 @@ export default [
     character: "⛷️",
     unicodeName: "skier",
     codePoint: "26F7 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
   },
   {
@@ -8266,7 +8232,7 @@ export default [
     character: "🏂",
     unicodeName: "snowboarder",
     codePoint: "1F3C2",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -8296,151 +8262,98 @@ export default [
     character: "🏌️",
     unicodeName: "person golfing",
     codePoint: "1F3CC FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
-  },
-  {
-    slug: "person-golfing-light-skin-tone",
-    character: "🏌🏻",
-    unicodeName: "person golfing: light skin tone",
-    codePoint: "1F3CC 1F3FB",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-golfing-medium-light-skin-tone",
-    character: "🏌🏼",
-    unicodeName: "person golfing: medium-light skin tone",
-    codePoint: "1F3CC 1F3FC",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-golfing-medium-skin-tone",
-    character: "🏌🏽",
-    unicodeName: "person golfing: medium skin tone",
-    codePoint: "1F3CC 1F3FD",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-golfing-medium-dark-skin-tone",
-    character: "🏌🏾",
-    unicodeName: "person golfing: medium-dark skin tone",
-    codePoint: "1F3CC 1F3FE",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-golfing-dark-skin-tone",
-    character: "🏌🏿",
-    unicodeName: "person golfing: dark skin tone",
-    codePoint: "1F3CC 1F3FF",
-    group: "people-body",
-    subGroup: "person-sport",
+    variants: [
+      {
+        slug: "person-golfing-light-skin-tone",
+        character: "🏌🏻",
+      },
+      {
+        slug: "person-golfing-medium-light-skin-tone",
+        character: "🏌🏼",
+      },
+      {
+        slug: "person-golfing-medium-skin-tone",
+        character: "🏌🏽",
+      },
+      {
+        slug: "person-golfing-medium-dark-skin-tone",
+        character: "🏌🏾",
+      },
+      {
+        slug: "person-golfing-dark-skin-tone",
+        character: "🏌🏿",
+      },
+    ],
   },
   {
     slug: "man-golfing",
     character: "🏌️‍♂️",
     unicodeName: "man golfing",
     codePoint: "1F3CC FE0F 200D 2642 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
+    variants: [
+      {
+        slug: "man-golfing-light-skin-tone",
+        character: "🏌🏻‍♂️",
+      },
+      {
+        slug: "man-golfing-medium-light-skin-tone",
+        character: "🏌🏼‍♂️",
+      },
+      {
+        slug: "man-golfing-medium-skin-tone",
+        character: "🏌🏽‍♂️",
+      },
+      {
+        slug: "man-golfing-medium-dark-skin-tone",
+        character: "🏌🏾‍♂️",
+      },
+      {
+        slug: "man-golfing-dark-skin-tone",
+        character: "🏌🏿‍♂️",
+      },
+    ],
   },
-  {
-    slug: "man-golfing-light-skin-tone",
-    character: "🏌🏻‍♂️",
-    unicodeName: "man golfing: light skin tone",
-    codePoint: "1F3CC 1F3FB 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-golfing-medium-light-skin-tone",
-    character: "🏌🏼‍♂️",
-    unicodeName: "man golfing: medium-light skin tone",
-    codePoint: "1F3CC 1F3FC 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-golfing-medium-skin-tone",
-    character: "🏌🏽‍♂️",
-    unicodeName: "man golfing: medium skin tone",
-    codePoint: "1F3CC 1F3FD 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-golfing-medium-dark-skin-tone",
-    character: "🏌🏾‍♂️",
-    unicodeName: "man golfing: medium-dark skin tone",
-    codePoint: "1F3CC 1F3FE 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-golfing-dark-skin-tone",
-    character: "🏌🏿‍♂️",
-    unicodeName: "man golfing: dark skin tone",
-    codePoint: "1F3CC 1F3FF 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
+
   {
     slug: "woman-golfing",
     character: "🏌️‍♀️",
     unicodeName: "woman golfing",
     codePoint: "1F3CC FE0F 200D 2640 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
-  },
-  {
-    slug: "woman-golfing-light-skin-tone",
-    character: "🏌🏻‍♀️",
-    unicodeName: "woman golfing: light skin tone",
-    codePoint: "1F3CC 1F3FB 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-golfing-medium-light-skin-tone",
-    character: "🏌🏼‍♀️",
-    unicodeName: "woman golfing: medium-light skin tone",
-    codePoint: "1F3CC 1F3FC 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-golfing-medium-skin-tone",
-    character: "🏌🏽‍♀️",
-    unicodeName: "woman golfing: medium skin tone",
-    codePoint: "1F3CC 1F3FD 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-golfing-medium-dark-skin-tone",
-    character: "🏌🏾‍♀️",
-    unicodeName: "woman golfing: medium-dark skin tone",
-    codePoint: "1F3CC 1F3FE 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-golfing-dark-skin-tone",
-    character: "🏌🏿‍♀️",
-    unicodeName: "woman golfing: dark skin tone",
-    codePoint: "1F3CC 1F3FF 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
+    variants: [
+      {
+        slug: "woman-golfing-light-skin-tone",
+        character: "🏌🏻‍♀️",
+      },
+      {
+        slug: "woman-golfing-medium-light-skin-tone",
+        character: "🏌🏼‍♀️",
+      },
+      {
+        slug: "woman-golfing-medium-skin-tone",
+        character: "🏌🏽‍♀️",
+      },
+      {
+        slug: "woman-golfing-medium-dark-skin-tone",
+        character: "🏌🏾‍♀️",
+      },
+      {
+        slug: "woman-golfing-dark-skin-tone",
+        character: "🏌🏿‍♀️",
+      },
+    ],
   },
   {
     slug: "person-surfing",
     character: "🏄",
     unicodeName: "person surfing",
     codePoint: "1F3C4",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -8518,7 +8431,7 @@ export default [
     character: "🚣",
     unicodeName: "person rowing boat",
     codePoint: "1F6A3",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -8596,7 +8509,7 @@ export default [
     character: "🏊",
     unicodeName: "person swimming",
     codePoint: "1F3CA",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -8674,295 +8587,187 @@ export default [
     character: "⛹️",
     unicodeName: "person bouncing ball",
     codePoint: "26F9 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
-  },
-  {
-    slug: "person-bouncing-ball-light-skin-tone",
-    character: "⛹🏻",
-    unicodeName: "person bouncing ball: light skin tone",
-    codePoint: "26F9 1F3FB",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-bouncing-ball-medium-light-skin-tone",
-    character: "⛹🏼",
-    unicodeName: "person bouncing ball: medium-light skin tone",
-    codePoint: "26F9 1F3FC",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-bouncing-ball-medium-skin-tone",
-    character: "⛹🏽",
-    unicodeName: "person bouncing ball: medium skin tone",
-    codePoint: "26F9 1F3FD",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-bouncing-ball-medium-dark-skin-tone",
-    character: "⛹🏾",
-    unicodeName: "person bouncing ball: medium-dark skin tone",
-    codePoint: "26F9 1F3FE",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-bouncing-ball-dark-skin-tone",
-    character: "⛹🏿",
-    unicodeName: "person bouncing ball: dark skin tone",
-    codePoint: "26F9 1F3FF",
-    group: "people-body",
-    subGroup: "person-sport",
+    variants: [
+      {
+        slug: "person-bouncing-ball-light-skin-tone",
+        character: "⛹🏻",
+      },
+      {
+        slug: "person-bouncing-ball-medium-light-skin-tone",
+        character: "⛹🏼",
+      },
+      {
+        slug: "person-bouncing-ball-medium-skin-tone",
+        character: "⛹🏽",
+      },
+      {
+        slug: "person-bouncing-ball-medium-dark-skin-tone",
+        character: "⛹🏾",
+      },
+      {
+        slug: "person-bouncing-ball-dark-skin-tone",
+        character: "⛹🏿",
+      },
+    ],
   },
   {
     slug: "man-bouncing-ball",
     character: "⛹️‍♂️",
     unicodeName: "man bouncing ball",
     codePoint: "26F9 FE0F 200D 2642 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
-  },
-  {
-    slug: "man-bouncing-ball-light-skin-tone",
-    character: "⛹🏻‍♂️",
-    unicodeName: "man bouncing ball: light skin tone",
-    codePoint: "26F9 1F3FB 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-bouncing-ball-medium-light-skin-tone",
-    character: "⛹🏼‍♂️",
-    unicodeName: "man bouncing ball: medium-light skin tone",
-    codePoint: "26F9 1F3FC 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-bouncing-ball-medium-skin-tone",
-    character: "⛹🏽‍♂️",
-    unicodeName: "man bouncing ball: medium skin tone",
-    codePoint: "26F9 1F3FD 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-bouncing-ball-medium-dark-skin-tone",
-    character: "⛹🏾‍♂️",
-    unicodeName: "man bouncing ball: medium-dark skin tone",
-    codePoint: "26F9 1F3FE 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-bouncing-ball-dark-skin-tone",
-    character: "⛹🏿‍♂️",
-    unicodeName: "man bouncing ball: dark skin tone",
-    codePoint: "26F9 1F3FF 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
+    variants: [
+      {
+        slug: "man-bouncing-ball-light-skin-tone",
+        character: "⛹🏻‍♂️",
+      },
+      {
+        slug: "man-bouncing-ball-medium-light-skin-tone",
+        character: "⛹🏼‍♂️",
+      },
+      {
+        slug: "man-bouncing-ball-medium-skin-tone",
+        character: "⛹🏽‍♂️",
+      },
+      {
+        slug: "man-bouncing-ball-medium-dark-skin-tone",
+        character: "⛹🏾‍♂️",
+      },
+      {
+        slug: "man-bouncing-ball-dark-skin-tone",
+        character: "⛹🏿‍♂️",
+      },
+    ],
   },
   {
     slug: "woman-bouncing-ball",
     character: "⛹️‍♀️",
     unicodeName: "woman bouncing ball",
     codePoint: "26F9 FE0F 200D 2640 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
-  },
-  {
-    slug: "woman-bouncing-ball-light-skin-tone",
-    character: "⛹🏻‍♀️",
-    unicodeName: "woman bouncing ball: light skin tone",
-    codePoint: "26F9 1F3FB 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-bouncing-ball-medium-light-skin-tone",
-    character: "⛹🏼‍♀️",
-    unicodeName: "woman bouncing ball: medium-light skin tone",
-    codePoint: "26F9 1F3FC 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-bouncing-ball-medium-skin-tone",
-    character: "⛹🏽‍♀️",
-    unicodeName: "woman bouncing ball: medium skin tone",
-    codePoint: "26F9 1F3FD 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-bouncing-ball-medium-dark-skin-tone",
-    character: "⛹🏾‍♀️",
-    unicodeName: "woman bouncing ball: medium-dark skin tone",
-    codePoint: "26F9 1F3FE 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-bouncing-ball-dark-skin-tone",
-    character: "⛹🏿‍♀️",
-    unicodeName: "woman bouncing ball: dark skin tone",
-    codePoint: "26F9 1F3FF 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
+    variants: [
+      {
+        slug: "woman-bouncing-ball-light-skin-tone",
+        character: "⛹🏻‍♀️",
+      },
+      {
+        slug: "woman-bouncing-ball-medium-light-skin-tone",
+        character: "⛹🏼‍♀️",
+      },
+      {
+        slug: "woman-bouncing-ball-medium-skin-tone",
+        character: "⛹🏽‍♀️",
+      },
+      {
+        slug: "woman-bouncing-ball-medium-dark-skin-tone",
+        character: "⛹🏾‍♀️",
+      },
+      {
+        slug: "woman-bouncing-ball-dark-skin-tone",
+        character: "⛹🏿‍♀️",
+      },
+    ],
   },
   {
     slug: "person-lifting-weights",
     character: "🏋️",
     unicodeName: "person lifting weights",
     codePoint: "1F3CB FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
-  },
-  {
-    slug: "person-lifting-weights-light-skin-tone",
-    character: "🏋🏻",
-    unicodeName: "person lifting weights: light skin tone",
-    codePoint: "1F3CB 1F3FB",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-lifting-weights-medium-light-skin-tone",
-    character: "🏋🏼",
-    unicodeName: "person lifting weights: medium-light skin tone",
-    codePoint: "1F3CB 1F3FC",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-lifting-weights-medium-skin-tone",
-    character: "🏋🏽",
-    unicodeName: "person lifting weights: medium skin tone",
-    codePoint: "1F3CB 1F3FD",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-lifting-weights-medium-dark-skin-tone",
-    character: "🏋🏾",
-    unicodeName: "person lifting weights: medium-dark skin tone",
-    codePoint: "1F3CB 1F3FE",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "person-lifting-weights-dark-skin-tone",
-    character: "🏋🏿",
-    unicodeName: "person lifting weights: dark skin tone",
-    codePoint: "1F3CB 1F3FF",
-    group: "people-body",
-    subGroup: "person-sport",
+    variants: [
+      {
+        slug: "person-lifting-weights-light-skin-tone",
+        character: "🏋🏻",
+      },
+      {
+        slug: "person-lifting-weights-medium-light-skin-tone",
+        character: "🏋🏼",
+      },
+      {
+        slug: "person-lifting-weights-medium-skin-tone",
+        character: "🏋🏽",
+      },
+      {
+        slug: "person-lifting-weights-medium-dark-skin-tone",
+        character: "🏋🏾",
+      },
+      {
+        slug: "person-lifting-weights-dark-skin-tone",
+        character: "🏋🏿",
+      },
+    ],
   },
   {
     slug: "man-lifting-weights",
     character: "🏋️‍♂️",
     unicodeName: "man lifting weights",
     codePoint: "1F3CB FE0F 200D 2642 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
-  },
-  {
-    slug: "man-lifting-weights-light-skin-tone",
-    character: "🏋🏻‍♂️",
-    unicodeName: "man lifting weights: light skin tone",
-    codePoint: "1F3CB 1F3FB 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-lifting-weights-medium-light-skin-tone",
-    character: "🏋🏼‍♂️",
-    unicodeName: "man lifting weights: medium-light skin tone",
-    codePoint: "1F3CB 1F3FC 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-lifting-weights-medium-skin-tone",
-    character: "🏋🏽‍♂️",
-    unicodeName: "man lifting weights: medium skin tone",
-    codePoint: "1F3CB 1F3FD 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-lifting-weights-medium-dark-skin-tone",
-    character: "🏋🏾‍♂️",
-    unicodeName: "man lifting weights: medium-dark skin tone",
-    codePoint: "1F3CB 1F3FE 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "man-lifting-weights-dark-skin-tone",
-    character: "🏋🏿‍♂️",
-    unicodeName: "man lifting weights: dark skin tone",
-    codePoint: "1F3CB 1F3FF 200D 2642 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
+    variants: [
+      {
+        slug: "man-lifting-weights-light-skin-tone",
+        character: "🏋🏻‍♂️",
+      },
+      {
+        slug: "man-lifting-weights-medium-light-skin-tone",
+        character: "🏋🏼‍♂️",
+      },
+      {
+        slug: "man-lifting-weights-medium-skin-tone",
+        character: "🏋🏽‍♂️",
+      },
+      {
+        slug: "man-lifting-weights-medium-dark-skin-tone",
+        character: "🏋🏾‍♂️",
+      },
+      {
+        slug: "man-lifting-weights-dark-skin-tone",
+        character: "🏋🏿‍♂️",
+      },
+    ],
   },
   {
     slug: "woman-lifting-weights",
     character: "🏋️‍♀️",
     unicodeName: "woman lifting weights",
     codePoint: "1F3CB FE0F 200D 2640 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
-  },
-  {
-    slug: "woman-lifting-weights-light-skin-tone",
-    character: "🏋🏻‍♀️",
-    unicodeName: "woman lifting weights: light skin tone",
-    codePoint: "1F3CB 1F3FB 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-lifting-weights-medium-light-skin-tone",
-    character: "🏋🏼‍♀️",
-    unicodeName: "woman lifting weights: medium-light skin tone",
-    codePoint: "1F3CB 1F3FC 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-lifting-weights-medium-skin-tone",
-    character: "🏋🏽‍♀️",
-    unicodeName: "woman lifting weights: medium skin tone",
-    codePoint: "1F3CB 1F3FD 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-lifting-weights-medium-dark-skin-tone",
-    character: "🏋🏾‍♀️",
-    unicodeName: "woman lifting weights: medium-dark skin tone",
-    codePoint: "1F3CB 1F3FE 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
-  },
-  {
-    slug: "woman-lifting-weights-dark-skin-tone",
-    character: "🏋🏿‍♀️",
-    unicodeName: "woman lifting weights: dark skin tone",
-    codePoint: "1F3CB 1F3FF 200D 2640 FE0F",
-    group: "people-body",
-    subGroup: "person-sport",
+    variants: [
+      {
+        slug: "woman-lifting-weights-light-skin-tone",
+        character: "🏋🏻‍♀️",
+      },
+      {
+        slug: "woman-lifting-weights-medium-light-skin-tone",
+        character: "🏋🏼‍♀️",
+      },
+      {
+        slug: "woman-lifting-weights-medium-skin-tone",
+        character: "🏋🏽‍♀️",
+      },
+      {
+        slug: "woman-lifting-weights-medium-dark-skin-tone",
+        character: "🏋🏾‍♀️",
+      },
+      {
+        slug: "woman-lifting-weights-dark-skin-tone",
+        character: "🏋🏿‍♀️",
+      },
+    ],
   },
   {
     slug: "person-biking",
     character: "🚴",
     unicodeName: "person biking",
     codePoint: "1F6B4",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -9040,7 +8845,7 @@ export default [
     character: "🚵",
     unicodeName: "person mountain biking",
     codePoint: "1F6B5",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -9118,7 +8923,7 @@ export default [
     character: "🤸",
     unicodeName: "person cartwheeling",
     codePoint: "1F938",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -9196,7 +9001,7 @@ export default [
     character: "🤼",
     unicodeName: "people wrestling",
     codePoint: "1F93C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -9214,7 +9019,7 @@ export default [
     character: "🤽",
     unicodeName: "person playing water polo",
     codePoint: "1F93D",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -9292,7 +9097,7 @@ export default [
     character: "🤾",
     unicodeName: "person playing handball",
     codePoint: "1F93E",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -9370,7 +9175,7 @@ export default [
     character: "🤹",
     unicodeName: "person juggling",
     codePoint: "1F939",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-sport",
     variants: [
       {
@@ -9448,7 +9253,7 @@ export default [
     character: "🧘",
     unicodeName: "person in lotus position",
     codePoint: "1F9D8",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-resting",
     variants: [
       {
@@ -9526,7 +9331,7 @@ export default [
     character: "🛀",
     unicodeName: "person taking bath",
     codePoint: "1F6C0",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-resting",
     variants: [
       {
@@ -9556,7 +9361,7 @@ export default [
     character: "🛌",
     unicodeName: "person in bed",
     codePoint: "1F6CC",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-resting",
     variants: [
       {
@@ -9586,7 +9391,7 @@ export default [
     character: "🧑‍🤝‍🧑",
     unicodeName: "people holding hands",
     codePoint: "1F9D1 200D 1F91D 200D 1F9D1",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9594,246 +9399,97 @@ export default [
     character: "👭",
     unicodeName: "women holding hands",
     codePoint: "1F46D",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
     variants: [
       {
         slug: "women-holding-hands-light-skin-tone",
         character: "👭🏻",
       },
+      {
+        slug: "women-holding-hands-medium-light-skin-tone",
+        character: "👭🏼",
+      },
+      {
+        slug: "women-holding-hands-medium-skin-tone",
+        character: "👭🏽",
+      },
+      {
+        slug: "women-holding-hands-medium-skin-tone-medium-dark-skin-tone",
+        character: "👩🏽‍🤝‍👩🏾",
+      },
+      {
+        slug: "women-holding-hands-dark-skin-tone",
+        character: "👭🏿",
+      },
     ],
-  },
-  {
-    slug: "women-holding-hands-light-skin-tone-medium-light-skin-tone",
-    character: "👩🏻‍🤝‍👩🏼",
-    unicodeName: "women holding hands: light skin tone, medium-light skin tone",
-    codePoint: "1F469 1F3FB 200D 1F91D 200D 1F469 1F3FC",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "women-holding-hands-medium-light-skin-tone",
-    character: "👭🏼",
-    unicodeName: "women holding hands: medium-light skin tone",
-    codePoint: "1F46D 1F3FC",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "women-holding-hands-medium-light-skin-tone-medium-skin-tone",
-    character: "👩🏼‍🤝‍👩🏽",
-    unicodeName:
-      "women holding hands: medium-light skin tone, medium skin tone",
-    codePoint: "1F469 1F3FC 200D 1F91D 200D 1F469 1F3FD",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "women-holding-hands-medium-skin-tone",
-    character: "👭🏽",
-    unicodeName: "women holding hands: medium skin tone",
-    codePoint: "1F46D 1F3FD",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "women-holding-hands-medium-skin-tone-medium-dark-skin-tone",
-    character: "👩🏽‍🤝‍👩🏾",
-    unicodeName: "women holding hands: medium skin tone, medium-dark skin tone",
-    codePoint: "1F469 1F3FD 200D 1F91D 200D 1F469 1F3FE",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "women-holding-hands-medium-dark-skin-tone",
-    character: "👭🏾",
-    unicodeName: "women holding hands: medium-dark skin tone",
-    codePoint: "1F46D 1F3FE",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "women-holding-hands-medium-dark-skin-tone-dark-skin-tone",
-    character: "👩🏾‍🤝‍👩🏿",
-    unicodeName: "women holding hands: medium-dark skin tone, dark skin tone",
-    codePoint: "1F469 1F3FE 200D 1F91D 200D 1F469 1F3FF",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "women-holding-hands-dark-skin-tone",
-    character: "👭🏿",
-    unicodeName: "women holding hands: dark skin tone",
-    codePoint: "1F46D 1F3FF",
-    group: "people-body",
-    subGroup: "family",
   },
   {
     slug: "woman-and-man-holding-hands",
     character: "👫",
     unicodeName: "woman and man holding hands",
     codePoint: "1F46B",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
     variants: [
       {
         slug: "woman-and-man-holding-hands-light-skin-tone",
         character: "👫🏻",
       },
+      {
+        slug: "woman-and-man-holding-hands-medium-light-skin-tone",
+        character: "👫🏼",
+      },
+      {
+        slug: "woman-and-man-holding-hands-medium-skin-tone",
+        character: "👫🏽",
+      },
+      {
+        slug: "woman-and-man-holding-hands-medium-dark-skin-tone",
+        character: "👫🏾",
+      },
+      {
+        slug: "woman-and-man-holding-hands-dark-skin-tone",
+        character: "👫🏿",
+      },
     ],
-  },
-  {
-    slug: "woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone",
-    character: "👩🏻‍🤝‍👨🏼",
-    unicodeName:
-      "woman and man holding hands: light skin tone, medium-light skin tone",
-    codePoint: "1F469 1F3FB 200D 1F91D 200D 1F468 1F3FC",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "woman-and-man-holding-hands-medium-light-skin-tone",
-    character: "👫🏼",
-    unicodeName: "woman and man holding hands: medium-light skin tone",
-    codePoint: "1F46B 1F3FC",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone",
-    character: "👩🏼‍🤝‍👨🏽",
-    unicodeName:
-      "woman and man holding hands: medium-light skin tone, medium skin tone",
-    codePoint: "1F469 1F3FC 200D 1F91D 200D 1F468 1F3FD",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "woman-and-man-holding-hands-medium-skin-tone",
-    character: "👫🏽",
-    unicodeName: "woman and man holding hands: medium skin tone",
-    codePoint: "1F46B 1F3FD",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone",
-    character: "👩🏽‍🤝‍👨🏾",
-    unicodeName:
-      "woman and man holding hands: medium skin tone, medium-dark skin tone",
-    codePoint: "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FE",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "woman-and-man-holding-hands-medium-dark-skin-tone",
-    character: "👫🏾",
-    unicodeName: "woman and man holding hands: medium-dark skin tone",
-    codePoint: "1F46B 1F3FE",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone",
-    character: "👩🏾‍🤝‍👨🏿",
-    unicodeName:
-      "woman and man holding hands: medium-dark skin tone, dark skin tone",
-    codePoint: "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FF",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "woman-and-man-holding-hands-dark-skin-tone",
-    character: "👫🏿",
-    unicodeName: "woman and man holding hands: dark skin tone",
-    codePoint: "1F46B 1F3FF",
-    group: "people-body",
-    subGroup: "family",
   },
   {
     slug: "men-holding-hands",
     character: "👬",
     unicodeName: "men holding hands",
     codePoint: "1F46C",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
     variants: [
       {
         slug: "men-holding-hands-light-skin-tone",
-        character: "👬🏻",
+        character: "👬🏼",
+      },
+      {
+        slug: "men-holding-hands-medium-light-skin-tone-medium-skin-tone",
+        character: "👨🏼‍🤝‍👨🏽",
+      },
+      {
+        slug: "men-holding-hands-medium-skin-tone",
+        character: "👬🏽",
+      },
+      {
+        slug: "men-holding-hands-medium-dark-skin-tone",
+        character: "👬🏾",
+      },
+      {
+        slug: "men-holding-hands-dark-skin-tone",
+        character: "👬🏿",
       },
     ],
-  },
-  {
-    slug: "men-holding-hands-light-skin-tone-medium-light-skin-tone",
-    character: "👨🏻‍🤝‍👨🏼",
-    unicodeName: "men holding hands: light skin tone, medium-light skin tone",
-    codePoint: "1F468 1F3FB 200D 1F91D 200D 1F468 1F3FC",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "men-holding-hands-medium-light-skin-tone",
-    character: "👬🏼",
-    unicodeName: "men holding hands: medium-light skin tone",
-    codePoint: "1F46C 1F3FC",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "men-holding-hands-medium-light-skin-tone-medium-skin-tone",
-    character: "👨🏼‍🤝‍👨🏽",
-    unicodeName: "men holding hands: medium-light skin tone, medium skin tone",
-    codePoint: "1F468 1F3FC 200D 1F91D 200D 1F468 1F3FD",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "men-holding-hands-medium-skin-tone",
-    character: "👬🏽",
-    unicodeName: "men holding hands: medium skin tone",
-    codePoint: "1F46C 1F3FD",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "men-holding-hands-medium-skin-tone-medium-dark-skin-tone",
-    character: "👨🏽‍🤝‍👨🏾",
-    unicodeName: "men holding hands: medium skin tone, medium-dark skin tone",
-    codePoint: "1F468 1F3FD 200D 1F91D 200D 1F468 1F3FE",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "men-holding-hands-medium-dark-skin-tone",
-    character: "👬🏾",
-    unicodeName: "men holding hands: medium-dark skin tone",
-    codePoint: "1F46C 1F3FE",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "men-holding-hands-medium-dark-skin-tone-dark-skin-tone",
-    character: "👨🏾‍🤝‍👨🏿",
-    unicodeName: "men holding hands: medium-dark skin tone, dark skin tone",
-    codePoint: "1F468 1F3FE 200D 1F91D 200D 1F468 1F3FF",
-    group: "people-body",
-    subGroup: "family",
-  },
-  {
-    slug: "men-holding-hands-dark-skin-tone",
-    character: "👬🏿",
-    unicodeName: "men holding hands: dark skin tone",
-    codePoint: "1F46C 1F3FF",
-    group: "people-body",
-    subGroup: "family",
   },
   {
     slug: "kiss",
     character: "💏",
     unicodeName: "kiss",
     codePoint: "1F48F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9841,7 +9497,7 @@ export default [
     character: "👩‍❤️‍💋‍👨",
     unicodeName: "kiss: woman, man",
     codePoint: "1F469 200D 2764 FE0F 200D 1F48B 200D 1F468 ; fully-qualified",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9849,7 +9505,7 @@ export default [
     character: "👨‍❤️‍💋‍👨",
     unicodeName: "kiss: man, man",
     codePoint: "1F468 200D 2764 FE0F 200D 1F48B 200D 1F468 ; fully-qualified",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9857,7 +9513,7 @@ export default [
     character: "👩‍❤️‍💋‍👩",
     unicodeName: "kiss: woman, woman",
     codePoint: "1F469 200D 2764 FE0F 200D 1F48B 200D 1F469 ; fully-qualified",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9865,7 +9521,7 @@ export default [
     character: "💑",
     unicodeName: "couple with heart",
     codePoint: "1F491",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9873,7 +9529,7 @@ export default [
     character: "👩‍❤️‍👨",
     unicodeName: "couple with heart: woman, man",
     codePoint: "1F469 200D 2764 FE0F 200D 1F468",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9881,7 +9537,7 @@ export default [
     character: "👨‍❤️‍👨",
     unicodeName: "couple with heart: man, man",
     codePoint: "1F468 200D 2764 FE0F 200D 1F468",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9889,7 +9545,7 @@ export default [
     character: "👩‍❤️‍👩",
     unicodeName: "couple with heart: woman, woman",
     codePoint: "1F469 200D 2764 FE0F 200D 1F469",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9897,7 +9553,7 @@ export default [
     character: "👪",
     unicodeName: "family",
     codePoint: "1F46A",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9905,7 +9561,7 @@ export default [
     character: "👨‍👩‍👦",
     unicodeName: "family: man, woman, boy",
     codePoint: "1F468 200D 1F469 200D 1F466",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9913,7 +9569,7 @@ export default [
     character: "👩‍👩‍👦",
     unicodeName: "family: woman, woman, boy",
     codePoint: "1F469 200D 1F469 200D 1F466",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9921,7 +9577,7 @@ export default [
     character: "👨‍👦",
     unicodeName: "family: man, boy",
     codePoint: "1F468 200D 1F466",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9929,7 +9585,7 @@ export default [
     character: "👩‍👦",
     unicodeName: "family: woman, boy",
     codePoint: "1F469 200D 1F466",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "family",
   },
   {
@@ -9937,7 +9593,7 @@ export default [
     character: "🗣️",
     unicodeName: "speaking head",
     codePoint: "1F5E3 FE0F",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-symbol",
   },
   {
@@ -9945,7 +9601,7 @@ export default [
     character: "👤",
     unicodeName: "bust in silhouette",
     codePoint: "1F464",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-symbol",
   },
   {
@@ -9953,15 +9609,7 @@ export default [
     character: "👥",
     unicodeName: "busts in silhouette",
     codePoint: "1F465",
-    group: "people-body",
-    subGroup: "person-symbol",
-  },
-  {
-    slug: "people-hugging",
-    character: "🫂",
-    unicodeName: "people hugging",
-    codePoint: "1FAC2",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-symbol",
   },
   {
@@ -9969,7 +9617,7 @@ export default [
     character: "👣",
     unicodeName: "footprints",
     codePoint: "1F463",
-    group: "people-body",
+    group: "smileys-people",
     subGroup: "person-symbol",
   },
   {

@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import "./components/icon-library";
+import "toastr/build/toastr.min.css";
 
 ReactDOM.render(
   <React.StrictMode>

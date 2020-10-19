@@ -19,7 +19,12 @@ function App() {
     }
 
     const list = values.filter((x) => {
-      return x.unicodeName.includes(value) || x.subGroup.includes(value);
+      return (
+        x.unicodeName.includes(value) ||
+        x.subGroup.includes(value) ||
+        x.character.includes(value) ||
+        (x.variants && x.variants.find((v) => v.character.includes(value)))
+      );
     });
     setEmojis(list);
   };
