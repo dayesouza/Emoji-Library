@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9543d6ad-373d-4771-996b-9bd5bdfeb534/deploy-status)](https://app.netlify.com/sites/day-emoji-library/deploys)
 
-Check the [Demo here](https://day-react-components.netlify.app)
+Check the [Demo here](https://day-emoji-library.netlify.app/)
 
 ## Description:
 
